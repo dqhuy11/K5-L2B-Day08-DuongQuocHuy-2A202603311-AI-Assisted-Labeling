@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,em (AI hỗ trợ soi ảnh),không thấy lỗi rõ ở mẫu; vùng xa bên trái nhiều box nhỏ khó kiểm
+img_006.jpg,,khong,em (AI hỗ trợ soi ảnh),hẻm đông; không thấy lỗi rõ nhưng nhiều box motorbike/person chồng nhau khó kiểm từng cái
+img_014.jpg,168,thua,em (AI hỗ trợ soi ảnh),person cao 19.3 px < 20 px: theo 4.1.6 không vẽ (validate_labels cảnh báo)
+img_031.jpg,576,thua,em (AI hỗ trợ soi ảnh),box person 0.15 góc trên trái nằm trên quần áo treo, không có người
+img_035.jpg,,bo_sot,em (AI hỗ trợ soi ảnh),review_stats.md báo bẫy missing ở img_035 vẫn lọt trong bản nộp: còn ít nhất 1 vật thiếu box (chưa xác định vị trí trên overlay)
