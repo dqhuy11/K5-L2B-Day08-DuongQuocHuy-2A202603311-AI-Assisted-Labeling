@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,45,gan tay CVAT; bo 3 box <20px img_001, gop 5 vat nho img_036 thanh ignore_region
+batch_review,24,30,tong cac vong duyet tren CVAT (lan dau bat bay 5/12; ban nop 9/12 sau khi xem danh sach bay lot)
