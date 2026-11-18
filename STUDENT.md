@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: dqhuy11
 - Repo bài nộp (URL): https://github.com/dqhuy11/K5-L2B-Day08-DuongQuocHuy-2A202603311-AI-Assisted-Labeling
-- Commit chốt bài (hash): (cập nhật ở commit sau)
+- Commit chốt bài (hash): cc7f542
 - Máy: Windows 11, không GPU (chạy CPU)
 - CVAT (Docker): v2.74.1
 
